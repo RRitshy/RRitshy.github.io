@@ -1,0 +1,21 @@
+body{background-color:#730800;
+	color:white;
+} 
+
+
+
+ h1{
+	margin:auto;
+	width:1000px;
+	text-align: center;
+	color:#000000;
+}	
+
+.modif-p
+h1{ 
+	color:#730800;
+}
+
+p {
+	background-color:#000000;
+}
